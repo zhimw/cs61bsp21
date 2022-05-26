@@ -1,2 +1,2 @@
 # cs61bsp21
-Code for the class。
+Code for the class.
